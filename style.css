@@ -1,0 +1,17 @@
+* {
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+body {
+  background-color: #212121;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.is-hover {
+  cursor: pointer;
+}
